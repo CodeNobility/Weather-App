@@ -40,5 +40,5 @@ This project is licensed under the [MIT License].
 
 ## Contact
 
-For any inquiries or issues, please open an issue in this repository or contact [princegupta1726@example.com].
+For any inquiries or issues, please open an issue in this repository or contact [princegupta1726@gmail.com].
 
