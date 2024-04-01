@@ -28,10 +28,6 @@ To run this application locally, follow these steps:
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to fork this repository, make your changes, and submit a pull request. Please ensure your code follows the existing code style and includes appropriate comments.
 
-## License
-
-This project is licensed under the [MIT License].
-
 ## Acknowledgements
 
 - Weather icons provided by [OpenWeatherMap](https://openweathermap.org/weather-conditions).
